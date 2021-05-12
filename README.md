@@ -88,4 +88,4 @@ Sobald die Ausarbeitung eines oder mehrerer Gruppenmitglieder nicht im Abgaben O
 
 ## Authors
 
-* **Samuel Mauch** - *Initial work* - [smauch](https://gitlab.com/smauch)
+* **Samuel Mauch** - *Initial work* - [smauch](https://github.com/smauch)
